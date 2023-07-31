@@ -1,0 +1,30 @@
+.container {
+  max-width: 800px;
+  margin: 0 auto; 
+  background-color: rgb(6, 6, 41);
+  margin-left: 409px;
+  border-radius: 10px;
+  box-shadow: (3px_6px_40px_black);
+}
+
+
+input,
+select,
+textarea {
+  display: block;
+  margin-bottom: 10px;
+  color: aliceblue;
+  
+}
+
+
+
+
+button {
+  margin-bottom: 20px;
+  color: aliceblue;
+}
+
+ul {
+  list-style-type: none;
+}
